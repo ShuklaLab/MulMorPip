@@ -1,12 +1,10 @@
 rm(list=ls())
-setwd("/data/users/bod_data/ukb")
 df=ukbtools::ukb_df("ukb46777")
 library("icd")
 dia=grep("f41270_0", names(df), value = T)
 v=df[c("eid",dia)]
 #write.table(v, file="all.tsv", row.names=F, quote=F)
 
-#system("./get_ra.sh")
 #v=read.table("ra.tsv", header=T)
 
 v_cmb=comorbid_charlson(v,return_df=T)
