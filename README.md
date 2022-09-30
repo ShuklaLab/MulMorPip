@@ -22,4 +22,4 @@ If you're using our tool and/or dataset, please cite:
 [Prasad B,  Bjourson AJ, Shukla P. Data-driven patient stratification of UK Biobank cohort suggests five endotypes of multimorbidity. Brief Bioinform. 2022 Sep 27:bbac410. doi: 10.1093/bib/bbac410.](https://doi.org/10.1093/bib/bbac410)
 
 ***
-*Last updated on: 18 Sep 2022*
+*Last updated on: 30 Sep 2022*
