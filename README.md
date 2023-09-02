@@ -17,7 +17,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Publication
 
-If you're using our MulMorPip, please cite:
+If you're using MulMorPip, please cite:
 
 [Prasad B, Bjourson AJ, Shukla P. Data-driven patient stratification of UK Biobank cohort suggests five endotypes of multimorbidity. Brief Bioinform. 2022 Nov 19;23(6):bbac410. doi: 10.1093/bib/bbac410. PMID: 36209412; PMCID: PMC9677496.](https://doi.org/10.1093/bib/bbac410)
 
